@@ -9,6 +9,6 @@ Begin
             Write('Buzz');
         If (i mod 3 <> 0) and (i mod 5 <> 0) Then
             Write(i);
-        Write(' ');
+        WriteLn;
     End;
 End.
