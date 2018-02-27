@@ -7,7 +7,7 @@ Begin
             Write('Fizz');
         If i mod 5 = 0 Then
             Write('Buzz');
-        If (i mod 3 <> 0) and (i mod 5 <>0) Then
+        If (i mod 3 <> 0) and (i mod 5 <> 0) Then
             Write(i);
         Write(' ');
     End;
